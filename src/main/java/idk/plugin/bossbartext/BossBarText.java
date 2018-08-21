@@ -17,7 +17,7 @@ public class BossBarText extends PluginBase implements Listener {
     @EventHandler
     public void onJoin(PlayerJoinEvent e) {
         Player p = e.getPlayer();
-        String text = this.getConfig().getString("text").replace("§", "\u00A7");
+        String text = this.getConfig().getString("text").replace("§", "\u00A7").replace("%n", "\n");
         int length = this.getConfig().getInt("length", 100);
         p.createBossBar(text, length);
     }

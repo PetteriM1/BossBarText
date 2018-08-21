@@ -1,6 +1,0 @@
-name: BossBarText
-version: "1.1"
-api: ["1.0.0"]
-author: PetteriM1
-description: Simple boss bar text plugin for Nukkit
-main: idk.plugin.bossbartext.BossBarText
