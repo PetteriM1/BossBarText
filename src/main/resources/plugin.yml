@@ -1,6 +1,6 @@
 name: BossBarText
 version: "${pom.version}"
-api: ["1.0.0"]
+api: ["2.0.0"]
 author: PetteriM1
 description: Simple boss bar text plugin for Nukkit
 main: idk.plugin.bossbartext.BossBarText

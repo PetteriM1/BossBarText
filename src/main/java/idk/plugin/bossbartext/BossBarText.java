@@ -1,9 +1,9 @@
 package idk.plugin.bossbartext;
 
-import cn.nukkit.Player;
 import cn.nukkit.event.player.PlayerQuitEvent;
 import cn.nukkit.event.server.DataPacketReceiveEvent;
 import cn.nukkit.network.protocol.SetLocalPlayerAsInitializedPacket;
+import cn.nukkit.player.Player;
 import cn.nukkit.plugin.PluginBase;
 import cn.nukkit.event.EventHandler;
 import cn.nukkit.event.Listener;
