@@ -1,2 +1,5 @@
+# boss bar text
+# use %n for a new line
 text: "§eYou can edit this text in config.yml"
+# boss bar length
 length: 100
