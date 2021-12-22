@@ -6,7 +6,7 @@
 
     <groupId>me.petterim1.bossbartext</groupId>
     <artifactId>BossBarText</artifactId>
-    <version>1.4</version>
+    <version>1.5</version>
     <build>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <plugins>

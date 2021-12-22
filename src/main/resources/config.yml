@@ -3,3 +3,6 @@
 text: "§eYou can edit this text in config.yml"
 # boss bar length
 length: 100
+# boss bar color (1.18+)
+# available: PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
+color: DEFAULT
